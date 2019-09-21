@@ -1,0 +1,49 @@
+.icons-language{
+    width: 18px;
+}
+
+.icons-language-medium{
+    width: 30px !important;
+}
+
+.icons-language-big{
+    width: 50px !important;
+}
+
+.services-icons{
+    font-size: 30px;
+}
+
+.icons-social{
+    font-size: 24px;
+}
+
+.icons-social:hover{
+    background-color: rgb(96, 96, 96);
+    color: white !important;
+    transition: background-color 0.5s;   
+}
+
+.star-checked{
+    color: #318fe3 !important;   
+}
+
+.html-icon{
+    color: #e34f26;
+}
+
+.sass-icon{
+    color: #CD6799;
+}
+
+.bootstrap-icon{
+    color: #563d7c;
+}
+
+.js-icon{
+    color: #f7df1f;
+}
+
+.fa-star:hover {
+    transform: scale(1.1);
+}

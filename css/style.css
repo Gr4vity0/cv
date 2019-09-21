@@ -1,0 +1,80 @@
+.main-color{
+    color: #318fe3;
+}
+
+.main-bg-color{
+    background-color: #318fe3;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+@media screen and (min-width: 768px){
+    .navbar{
+        margin-bottom: 2rem !important;
+    }
+}
+
+h1{
+    font-size: 24px;
+}
+
+
+/* navbar */
+.nav-link{
+    color: black !important;
+}
+
+.nav-link:hover{
+    background-color: #318fe3;
+    color: white !important;
+    transition: background-color 0.5s;
+}
+
+.active{
+    background-color: #318fe3;
+}
+
+.active .nav-link{
+    color: white !important;
+}
+
+
+
+.btn-contact{
+    color: white !important;
+}
+
+.btn-contact:hover{
+    background-color: white;
+    border: 1px solid#318fe3 !important;
+    color: #318fe3 !important;
+    transition: background-color 0.5s; 
+}
+
+.pull-right-xs {
+    float: right;
+}
+
+@media (min-width: 768px) {
+   .pull-right-xs {
+      float: left;
+   }
+}
+
+@media (min-width: 768px) {
+    #contact-page-section {
+        display: block !important;
+     } 
+ } 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
