@@ -71,7 +71,24 @@ h1{
   
   
   
-  
+  /*to top */
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 99;
+    outline: none;
+    border: none;
+    color: #121416;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 30px;
+  }
+  #myBtn:hover {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #121416;
+  }
   
   
   
